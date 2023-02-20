@@ -12,7 +12,7 @@
             "polygons": [
                 {
                     "labels": {
-                        "Object": [
+                        "Type": [
                             "bug"
                         ]
                     },
@@ -137,7 +137,7 @@
                 },
                 {
                     "labels": {
-                        "Object": [
+                        "Type": [
                             "bottle"
                         ]
                     },
@@ -281,7 +281,7 @@
             "polygons": [
                 {
                     "labels": {
-                        "Object": [
+                        "Type": [
                             "bug"
                         ]
                     },
@@ -410,7 +410,7 @@
                 },
                 {
                     "labels": {
-                        "Object": [
+                        "Type": [
                             "bottle"
                         ]
                     },
