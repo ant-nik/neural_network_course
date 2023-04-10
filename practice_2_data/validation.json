@@ -1,0 +1,437 @@
+[
+    {
+        "ignore": false,
+        "labels": {
+            "boxes": [
+                {
+                    "labels": {
+                        "Object": [
+                            "bag"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.05527825112547754,
+                        "y": 0.2481042429801982
+                    },
+                    "pt2": {
+                        "x": 0.4498371039984555,
+                        "y": 0.9981136755338632
+                    }
+                }
+            ],
+            "dimensions": {
+                "height": 915,
+                "width": 1617
+            },
+            "image": {},
+            "masks": [],
+            "polygons": []
+        },
+        "target": "https://github.com/ant-nik/neural_network_course/raw/main/practice_2_data/video_4/image012.jpg"
+    },
+    {
+        "ignore": false,
+        "labels": {
+            "boxes": [
+                {
+                    "labels": {
+                        "Object": [
+                            "bag"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.0328981481735436,
+                        "y": 0.3145081225231231
+                    },
+                    "pt2": {
+                        "x": 0.5469282382253526,
+                        "y": 0.9922441133716425
+                    }
+                },
+                {
+                    "labels": {
+                        "Object": [
+                            "bottle"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.7069461340623764,
+                        "y": 0.29497682595688335
+                    },
+                    "pt2": {
+                        "x": 0.9962935621512412,
+                        "y": 0.6231026082697112
+                    }
+                }
+            ],
+            "dimensions": {
+                "height": 913,
+                "width": 1627
+            },
+            "image": {},
+            "masks": [],
+            "polygons": []
+        },
+        "target": "https://github.com/ant-nik/neural_network_course/raw/main/practice_2_data/video_4/image013.jpg"
+    },
+    {
+        "ignore": false,
+        "labels": {
+            "boxes": [
+                {
+                    "labels": {
+                        "Object": [
+                            "bag"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.1546000636286092,
+                        "y": 0.3555238453122266
+                    },
+                    "pt2": {
+                        "x": 0.6216590578592065,
+                        "y": 0.9961503726848905
+                    }
+                },
+                {
+                    "labels": {
+                        "Object": [
+                            "bottle"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.4869517356461264,
+                        "y": 0.324273770806243
+                    },
+                    "pt2": {
+                        "x": 0.7497414297995121,
+                        "y": 0.8672438153477081
+                    }
+                }
+            ],
+            "dimensions": {
+                "height": 913,
+                "width": 1615
+            },
+            "image": {},
+            "masks": [],
+            "polygons": []
+        },
+        "target": "https://github.com/ant-nik/neural_network_course/raw/main/practice_2_data/video_4/image014.jpg"
+    },
+    {
+        "ignore": false,
+        "labels": {
+            "boxes": [
+                {
+                    "labels": {
+                        "Object": [
+                            "bag"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.09845329911136379,
+                        "y": 0.32622777547603343
+                    },
+                    "pt2": {
+                        "x": 0.5459880500393522,
+                        "y": 0.9961530445819372
+                    }
+                },
+                {
+                    "labels": {
+                        "Object": [
+                            "bottle"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.48761395209222336,
+                        "y": 0.41607198066224793
+                    },
+                    "pt2": {
+                        "x": 0.758881819022999,
+                        "y": 0.9277933232446001
+                    }
+                }
+            ],
+            "dimensions": {
+                "height": 906,
+                "width": 1546
+            },
+            "image": {},
+            "masks": [],
+            "polygons": []
+        },
+        "target": "https://github.com/ant-nik/neural_network_course/raw/main/practice_2_data/video_4/image015.jpg"
+    },
+    {
+        "ignore": false,
+        "labels": {
+            "boxes": [
+                {
+                    "labels": {
+                        "Object": [
+                            "bag"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.011901767784091253,
+                        "y": 0.2852133706843642
+                    },
+                    "pt2": {
+                        "x": 0.5174779064755302,
+                        "y": 0.98053287476634
+                    }
+                },
+                {
+                    "labels": {
+                        "Object": [
+                            "bottle"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.3009909959131386,
+                        "y": 0.24224418784783758
+                    },
+                    "pt2": {
+                        "x": 0.4976772744118968,
+                        "y": 0.8672504836518607
+                    }
+                }
+            ],
+            "dimensions": {
+                "height": 907,
+                "width": 1342
+            },
+            "image": {},
+            "masks": [],
+            "polygons": []
+        },
+        "target": "https://github.com/ant-nik/neural_network_course/raw/main/practice_2_data/video_4/image016.jpg"
+    },
+    {
+        "ignore": false,
+        "labels": {
+            "boxes": [
+                {
+                    "labels": {
+                        "Object": [
+                            "bottle"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.4583083142041947,
+                        "y": 0.2539617843479913
+                    },
+                    "pt2": {
+                        "x": 0.6699253861571466,
+                        "y": 0.8867774904421978
+                    }
+                },
+                {
+                    "labels": {
+                        "Object": [
+                            "bag"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.014301942376528803,
+                        "y": 0.35552479890632077
+                    },
+                    "pt2": {
+                        "x": 0.5284145834401419,
+                        "y": 0.9961530445819372
+                    }
+                }
+            ],
+            "dimensions": {
+                "height": 906,
+                "width": 1363
+            },
+            "image": {},
+            "masks": [],
+            "polygons": []
+        },
+        "target": "https://github.com/ant-nik/neural_network_course/raw/main/practice_2_data/video_4/image017.jpg"
+    },
+    {
+        "ignore": false,
+        "labels": {
+            "boxes": [
+                {
+                    "labels": {
+                        "Object": [
+                            "bag"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.15478674658875277,
+                        "y": 0.33208884286966595
+                    },
+                    "pt2": {
+                        "x": 0.6224331949785473,
+                        "y": 0.9981111768358282
+                    }
+                },
+                {
+                    "labels": {
+                        "Object": [
+                            "bottle"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.5545131155695533,
+                        "y": 0.253963055894163
+                    },
+                    "pt2": {
+                        "x": 0.8573698630981822,
+                        "y": 0.7324835011191183
+                    }
+                }
+            ],
+            "dimensions": {
+                "height": 907,
+                "width": 1591
+            },
+            "image": {},
+            "masks": [],
+            "polygons": []
+        },
+        "target": "https://github.com/ant-nik/neural_network_course/raw/main/practice_2_data/video_4/image018.jpg"
+    },
+    {
+        "ignore": false,
+        "labels": {
+            "boxes": [
+                {
+                    "labels": {
+                        "Object": [
+                            "bottle"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.3571188713619677,
+                        "y": 0.26958686351081124
+                    },
+                    "pt2": {
+                        "x": 0.5758837516218358,
+                        "y": 0.7500580477675235
+                    }
+                },
+                {
+                    "labels": {
+                        "Object": [
+                            "bag"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.15658439779042194,
+                        "y": 0.3145089661039185
+                    },
+                    "pt2": {
+                        "x": 0.6069826806783857,
+                        "y": 0.9961530445819372
+                    }
+                }
+            ],
+            "dimensions": {
+                "height": 901,
+                "width": 1641
+            },
+            "image": {},
+            "masks": [],
+            "polygons": []
+        },
+        "target": "https://github.com/ant-nik/neural_network_course/raw/main/practice_2_data/video_4/image019.jpg"
+    },
+    {
+        "ignore": false,
+        "labels": {
+            "boxes": [
+                {
+                    "labels": {
+                        "Object": [
+                            "bag"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.09603007258825437,
+                        "y": 0.31451134690079346
+                    },
+                    "pt2": {
+                        "x": 0.5749448415598277,
+                        "y": 0.9961605853464659
+                    }
+                },
+                {
+                    "labels": {
+                        "Object": [
+                            "bottle"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.5452269800007326,
+                        "y": 0.24810425776855033
+                    },
+                    "pt2": {
+                        "x": 0.93613115897037,
+                        "y": 0.5879523021512065
+                    }
+                }
+            ],
+            "dimensions": {
+                "height": 910,
+                "width": 1555
+            },
+            "image": {},
+            "masks": [],
+            "polygons": []
+        },
+        "target": "https://github.com/ant-nik/neural_network_course/raw/main/practice_2_data/video_4/image020.jpg"
+    },
+    {
+        "ignore": false,
+        "labels": {
+            "boxes": [
+                {
+                    "labels": {
+                        "Object": [
+                            "bag"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.09080316314004559,
+                        "y": 0.2871673027259163
+                    },
+                    "pt2": {
+                        "x": 0.6082763857800255,
+                        "y": 0.9942076134465272
+                    }
+                },
+                {
+                    "labels": {
+                        "Object": [
+                            "bottle"
+                        ]
+                    },
+                    "pt1": {
+                        "x": 0.5469966620463437,
+                        "y": 0.021538898698283442
+                    },
+                    "pt2": {
+                        "x": 0.712678878067039,
+                        "y": 0.6387343080566068
+                    }
+                }
+            ],
+            "dimensions": {
+                "height": 900,
+                "width": 1549
+            },
+            "image": {},
+            "masks": [],
+            "polygons": []
+        },
+        "target": "https://github.com/ant-nik/neural_network_course/raw/main/practice_2_data/video_4/image021.jpg"
+    }
+]
